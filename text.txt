@@ -1,0 +1,5 @@
+Uninstall the code command from PATH in VS Code and reinstall it. 
+Open the command palette in VS Code using cmd + shift + p. 
+Search "uninstall 'code'" and select the first option to uninstall. 
+Once uninstalled, "install 'code'" for installing. 
+That should fix it.
